@@ -3,6 +3,7 @@ def roll_call_dwarves(dwarf_names)
     i = 0
     index = i + 1
     puts "#{index}. #{dwarf_name}"
+  end
   # Your code here
 end
 
