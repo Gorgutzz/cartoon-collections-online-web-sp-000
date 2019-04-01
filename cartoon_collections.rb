@@ -4,18 +4,17 @@ def roll_call_dwarves(dwarf_names)
     index = i + 1
     puts "#{index}. #{dwarf_name}"
   end
-  # Your code here
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
+def summon_captain_planet
+
 end
 
-def long_planeteer_calls# code an argument here
-  # Your code here
+def long_planeteer_calls
+
 end
 
-def find_the_cheese# code an argument here
-  # the array below is here to help
+def find_the_cheese
+
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
