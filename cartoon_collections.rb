@@ -11,6 +11,7 @@ def summon_captain_planet(planeteer_calls)
     elements = call.capitlaize + "!"
     calls << elements
   end
+  calls
 end
 
 def long_planeteer_calls
