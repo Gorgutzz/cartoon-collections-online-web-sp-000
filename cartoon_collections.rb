@@ -32,5 +32,6 @@ def find_the_cheese(strings)
       return cheese_type
     else
       return nil
+    end
 
 end
