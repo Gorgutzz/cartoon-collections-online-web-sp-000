@@ -8,7 +8,7 @@ end
 def summon_captain_planet(planeteer_calls)
   calls = []
   planeteer_calls.collect do |call|
-    elements = call.capitlaize + "!"
+    elements = call.capitlize + "!"
     calls << elements
   end
   return calls
