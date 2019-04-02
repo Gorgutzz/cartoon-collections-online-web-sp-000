@@ -31,6 +31,6 @@ def find_the_cheese(strings)
     if cheese_types.include?(cheese_type)
       return cheese_type
     end
-    return nil
   end
+  return nil
 end
