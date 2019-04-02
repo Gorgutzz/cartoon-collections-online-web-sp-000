@@ -16,7 +16,7 @@ end
 
 def long_planeteer_calls(calls)
   words = []
-  calls.collect do |word|
+  calls.each do |word|
     if word.length < 4
       return true
     else
